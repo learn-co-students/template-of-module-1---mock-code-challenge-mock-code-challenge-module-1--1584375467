@@ -17,9 +17,9 @@ We'd like for you build out the following methods for each class. As you work, w
 #### Passenger
 A Passenger should be initialized with a name as a string. After the Passenger has been initialized, it shouldn't be changed.
 - `Passenger#name`
-  - Returns the name of the passenger
+  - Returns the name of the passenger ###
 - `Passenger#rides`
-  - Returns an array of Ride instances that this person has been on
+  - Returns an array of Ride instances that this person has been on 
 - `Passenger#drivers`
   - Returns an array of Driver instances that this person has rode with
 - `Passenger#total_distance`
